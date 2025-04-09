@@ -16,6 +16,4 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github.com/Davi-santos16/blob/output/github-snake-dark.svg" alt="Snake animation">
-</div>
+

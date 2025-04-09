@@ -14,3 +14,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-santos16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
+<div align="center">
+  <img src="https://github.com/Davi-santos16/Davi-santos16/blob/output/github-snake-dark.svg" alt="Snake animation">
+</div>

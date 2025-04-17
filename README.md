@@ -9,27 +9,17 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/DanielVerissimo1">
+  <a href="https://github.com/Davi-santos16">
   <div align="center"> 
-<a href="https://github.com/DanielVerissimo1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&rank_icon=github&show_icons=true&repo-private=true" />
+<a href="https://github.com/Davi-santos16">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davi-santos16&theme=midnight-purple&rank_icon=github&show_icons=true&repo-private=true" />
   
- 
+ ##
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVerissimo1&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&exclude_repo=academytaskhub,&repo-private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-santos16&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&exclude_repo=academytaskhub,&repo-private=true" />
 </a>
 
 ##
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-santos16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 <div align="center">
